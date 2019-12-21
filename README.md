@@ -1,0 +1,1 @@
+# Implementation-of-XOR-function-using-Feedforward-Neural-Networks-from-scratch
